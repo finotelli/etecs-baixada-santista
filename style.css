@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+a {
+    color:rgb(255, 255, 255);
+    background-color: rgb(217, 155, 241);
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    background-color: darkorchid;
+    text-align: center;
+}
+
+#favorito {
+    background-color: blueviolet;
+}
+
+.vizinhos {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+
+p em {
+    background-color: rgb(245, 220, 255);
+}
+
+p + p {
+    color: darkmagenta;
+}
